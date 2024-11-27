@@ -3,6 +3,20 @@
 1. Java 17 or higher
 2. Maven 3.8 or higher
 
+## Presentation
+
+### Login
+
+![Login](assets/login.gif)
+
+### Activities
+
+![Activities](assets/actividad.gif)
+
+### User Management
+
+![User Management](assets/usuario.gif)
+
 # Description:
 
 The application will automatically load default data from `src/main/resources/data.sql`.
