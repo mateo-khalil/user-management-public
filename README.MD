@@ -38,7 +38,7 @@ If you prefer to use Docker for the database, follow these steps:
    ```
    docker-compose up
    ```
-4. If the database is not initialized correctly, manually execute the script located at `init-scripts/init.sql`.
+4. Update the application.properties file.
 
 ### Example Docker Compose Configuration
 
